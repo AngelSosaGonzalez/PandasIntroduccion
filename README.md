@@ -1,6 +1,8 @@
 # PandasIntroduccion
 Este proyecto es una base para aprender del módulos de manejo de datos llamados Pandas, aparte de otros módulos para la creación de gráficos y arboles 
 
+# NOTA: PARA EL PROYECTO TE RECOMIENDO USAR PYTHON VERSION: 3.7.5, ya que sklearn causa conflicto en las versiones actuales de Python
+
 # Antes de iniciar
 
 Usaremos VSCode (Puedes usar la que tu quieras)
