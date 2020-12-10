@@ -25,5 +25,5 @@ Sklearn
 
 Ya instalado todo esto...
 # Ah PROGRAMAR
-Creditos: Para este codigo realice el pequeño curso del canal de Init (Suscribanse)
-Fuentes: https://www.youtube.com/watch?v=us90RPAECKo&t=580s
+Para este codigo realice el pequeño curso del canal de Init (Suscribanse)
+- Fuentes: https://www.youtube.com/watch?v=us90RPAECKo&t=580s
